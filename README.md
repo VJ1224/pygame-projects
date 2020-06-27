@@ -1,6 +1,6 @@
 # PyGame Projects
 
-All my projects created using PyGame in Python
+Projects created using PyGame in Python
 
 ## Dino Game
 
